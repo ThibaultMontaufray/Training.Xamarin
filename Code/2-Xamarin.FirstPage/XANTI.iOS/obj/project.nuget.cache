@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uhU5+QYwk/+6acd7jhDX/fit31aBjYnI4bqs1YhcAe6UkZUUlz6OxgTAZgbMu4bzQ1XXHpk/J68zQdzKxvf5Gw==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI.iOS\\XANTI.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiba\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
