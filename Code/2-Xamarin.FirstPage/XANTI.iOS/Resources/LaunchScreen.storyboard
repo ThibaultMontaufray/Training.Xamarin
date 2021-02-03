@@ -13,14 +13,14 @@
                         <viewControllerLayoutGuide type="bottom" id="9ZL-r4-8FZ"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleAspectFit" id="yd7-JS-zBw">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="tintColor" colorSpace="custom" customColorSpace="sRGB" red="0.981437385082245" green="0.822794854640961" blue="0.715249538421631" alpha="1"/>
                         <color key="backgroundColor" colorSpace="custom" customColorSpace="sRGB" red="0.981437385082245" green="0.822794854640961" blue="0.715249538421631" alpha="1"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="4548" translatesAutoresizingMaskIntoConstraints="NO" image="splashscreen">
-                                <rect key="frame" x="-14" y="-10" width="403" height="707"/>
-                                <rect key="contentStretch" x="0.0" y="0.0" width="0.0" height="0.0"/>
+                                <rect key="frame" x="-10" y="-10" width="434" height="936"/>
+                                <rect key="contentStretch" x="0.0" y="0.0" width="1" height="1"/>
                             </imageView>
                         </subviews>
                         <constraints>

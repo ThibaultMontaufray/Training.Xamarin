@@ -6,6 +6,19 @@
              mc:Ignorable="d"
              x:Class="XANTI.App">
     <Application.Resources>
+        <ResourceDictionary>
 
+            <OnPlatform x:TypeArguments="x:String" x:Key="MyFont">
+                <On Platform="Android" Value="Minercraftory.ttf#Minercraftory" />
+                <On Platform="iOS" Value="Minercraftory" />
+            </OnPlatform>
+
+            <Style x:Key="MenuStyle" TargetType="Button">
+                <Setter Property="FontFamily" Value="{StaticResource MyFont}" />
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="BackgroundColor" Value="#A89A75" />
+            </Style>
+            
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

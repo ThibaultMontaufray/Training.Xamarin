@@ -150,6 +150,34 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon1024.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon167.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\icon.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\launcher_foreground.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Default-Portrait%402x.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon29.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon1024.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\splascreen.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Default-Portrait.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Default%402x.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon60.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon76.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\splascreen%401x.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\font.zip" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon58.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\background.jpg" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\links.txt" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon40.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon80.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Default-568h%402x.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\splascreen%402x.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\splascreen%403x.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\maze.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon87.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon120.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon152.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon20.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Default.png" />
+    <ImageAsset Include="Media.xcassets\splashscreen.imageset\Resources\Icon180.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -173,5 +201,13 @@
   <ItemGroup>
     <Folder Include="Media.xcassets\splashscreen.imageset\" />
     <Folder Include="Assets.xcassets\AppIcon.imageset\" />
+    <Folder Include="Media.xcassets\maze.imageset\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\maze.png" />
+    <BundleResource Include="Resources\WEST____.TTF" />
+    <BundleResource Include="Resources\Minercraftory.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </BundleResource>
   </ItemGroup>
 </Project>
