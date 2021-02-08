@@ -13,7 +13,7 @@
 namespace XANTI.View {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\TabPages\\TabPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View/TabPages/TabPage.xaml")]
     public partial class TabPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

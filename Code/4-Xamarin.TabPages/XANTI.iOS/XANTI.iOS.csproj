@@ -261,9 +261,11 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\maze.png" />
-    <BundleResource Include="Resources\WEST____.TTF" />
     <BundleResource Include="Resources\Minercraftory.ttf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </BundleResource>
+    <BundleResource Include="Resources\bodybot.png" />
+    <BundleResource Include="Resources\body.png" />
+    <BundleResource Include="Resources\personality.png" />
   </ItemGroup>
 </Project>

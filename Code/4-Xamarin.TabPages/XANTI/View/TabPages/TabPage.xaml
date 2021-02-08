@@ -4,13 +4,20 @@
              xmlns:views="clr-namespace:XANTI.View.TabPages"
              x:Class="XANTI.View.TabPage"
              Title="Tabs">
-
+    
     <TabbedPage.BarBackgroundColor>
         <OnPlatform x:TypeArguments="Color">
             <OnPlatform.iOS>#E5B87E</OnPlatform.iOS>
             <OnPlatform.Android>#E5B87E</OnPlatform.Android>
         </OnPlatform>
     </TabbedPage.BarBackgroundColor>
+
+    <TabbedPage.SelectedTabColor>
+        <OnPlatform x:TypeArguments="Color">
+            <OnPlatform.iOS>#7F0000</OnPlatform.iOS>
+            <OnPlatform.Android>#7F0000</OnPlatform.Android>
+        </OnPlatform>
+    </TabbedPage.SelectedTabColor>
 
     <TabbedPage.BarTextColor>
         <OnPlatform x:TypeArguments="Color">
@@ -19,7 +26,7 @@
         </OnPlatform>
     </TabbedPage.BarTextColor>
     
-    <views:BodyPage Icon="body.png" />
-    <views:PersonalityPage Icon="personality.png" />
+    <views:BodyPage IconImageSource="body.png" />
+    <views:PersonalityPage IconImageSource="personality.png" />
 
 </TabbedPage>

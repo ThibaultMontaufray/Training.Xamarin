@@ -13,7 +13,7 @@
 namespace XANTI.View.TabPages {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\TabPages\\BodyPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View/TabPages/BodyPage.xaml")]
     public partial class BodyPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

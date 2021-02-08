@@ -1969,39 +1969,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thiba\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/tmontaufray/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\Training.Xamarin\\Code\\4-Xamarin.TabPages\\XANTI.Android\\XANTI.Android.csproj",
+      "projectUniqueName": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/4-Xamarin.TabPages/XANTI.Android/XANTI.Android.csproj",
       "projectName": "XANTI.Android",
-      "projectPath": "D:\\Github\\Training.Xamarin\\Code\\4-Xamarin.TabPages\\XANTI.Android\\XANTI.Android.csproj",
-      "packagesPath": "C:\\Users\\thiba\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\Training.Xamarin\\Code\\4-Xamarin.TabPages\\XANTI.Android\\obj\\",
+      "projectPath": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/4-Xamarin.TabPages/XANTI.Android/XANTI.Android.csproj",
+      "packagesPath": "/Users/tmontaufray/.nuget/packages/",
+      "outputPath": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/4-Xamarin.TabPages/XANTI.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\thiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/tmontaufray/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\Github\\Training.Xamarin\\Code\\4-Xamarin.TabPages\\XANTI\\XANTI.csproj": {
-              "projectPath": "D:\\Github\\Training.Xamarin\\Code\\4-Xamarin.TabPages\\XANTI\\XANTI.csproj"
+            "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/4-Xamarin.TabPages/XANTI/XANTI.csproj": {
+              "projectPath": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/4-Xamarin.TabPages/XANTI/XANTI.csproj"
             }
           }
         }

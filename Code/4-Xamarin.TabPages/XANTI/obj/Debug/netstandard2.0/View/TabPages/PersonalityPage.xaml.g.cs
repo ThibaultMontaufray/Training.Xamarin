@@ -13,7 +13,7 @@
 namespace XANTI.View.TabPages {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\TabPages\\PersonalityPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View/TabPages/PersonalityPage.xaml")]
     public partial class PersonalityPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

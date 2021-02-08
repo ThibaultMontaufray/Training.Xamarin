@@ -8,7 +8,7 @@
              x:Class="XANTI.View.TabPages.PersonalityPage">
     <ContentPage.Content>
         <StackLayout>
-            <Picker x:Name="personalityPicker">
+            <Picker x:Name="personalityPicker" VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand">
                 <Picker.Items Type="{x:Type x:String}">
                     <x:String>Classic</x:String>
                     <x:String>Mean</x:String>
