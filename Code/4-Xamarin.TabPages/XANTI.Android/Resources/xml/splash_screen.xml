@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/ssLayout">
+  <item>
+    <shape>
+      <gradient
+          android:layout_marginBottom="30dp"
+          android:centerX="0.2"
+          android:centerY="0.5"
+          android:endColor="#F9E6D9"
+          android:startColor="#E38A6C"
+          android:angle="90"
+          android:type="linear" />
+    </shape>
+  </item>
+  <item>
+    <bitmap
+        android:src="@mipmap/splashscreen"
+        android:tileMode="disabled"
+        android:gravity="fill_horizontal|fill_vertical"/>
+  </item>
+</layer-list>

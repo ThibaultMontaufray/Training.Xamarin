@@ -1,33 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.Android/XANTI.Android.csproj": {}
+    "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI.Android\\XANTI.Android.csproj": {}
   },
   "projects": {
-    "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.Android/XANTI.Android.csproj": {
+    "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI.Android\\XANTI.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.Android/XANTI.Android.csproj",
+        "projectUniqueName": "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI.Android\\XANTI.Android.csproj",
         "projectName": "XANTI.Android",
-        "projectPath": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.Android/XANTI.Android.csproj",
-        "packagesPath": "/Users/tmontaufray/.nuget/packages/",
-        "outputPath": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.Android/obj/",
+        "projectPath": "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI.Android\\XANTI.Android.csproj",
+        "packagesPath": "C:\\Users\\thiba\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/tmontaufray/.config/NuGet/NuGet.Config"
+          "C:\\Users\\thiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI/XANTI.csproj": {
-                "projectPath": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI/XANTI.csproj"
+              "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI\\XANTI.csproj": {
+                "projectPath": "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI\\XANTI.csproj"
               }
             }
           }
@@ -48,27 +54,32 @@
         }
       }
     },
-    "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI/XANTI.csproj": {
+    "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI\\XANTI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI/XANTI.csproj",
+        "projectUniqueName": "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI\\XANTI.csproj",
         "projectName": "XANTI",
-        "projectPath": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI/XANTI.csproj",
-        "packagesPath": "/Users/tmontaufray/.nuget/packages/",
-        "outputPath": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI/obj/",
+        "projectPath": "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI\\XANTI.csproj",
+        "packagesPath": "C:\\Users\\thiba\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/tmontaufray/.config/NuGet/NuGet.Config"
+          "C:\\Users\\thiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -80,7 +91,6 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -107,7 +117,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

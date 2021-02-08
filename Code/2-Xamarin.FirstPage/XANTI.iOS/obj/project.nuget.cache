@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+YDdjXI/ZrCL01YGzV5VOAdsDfJTiSNCD/Q471LIdHKGk2eCUPfk6TQlCY3Azz/6GFnM8K120GqCHTko2c7wHQ==",
+  "dgSpecHash": "uhU5+QYwk/+6acd7jhDX/fit31aBjYnI4bqs1YhcAe6UkZUUlz6OxgTAZgbMu4bzQ1XXHpk/J68zQdzKxvf5Gw==",
   "success": true,
-  "projectFilePath": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/XANTI.iOS.csproj",
+  "projectFilePath": "D:\\Github\\Training.Xamarin\\Code\\2-Xamarin.FirstPage\\XANTI.iOS\\XANTI.iOS.csproj",
   "expectedPackageFiles": [
-    "/Users/tmontaufray/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/tmontaufray/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
-    "/Users/tmontaufray/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512"
+    "C:\\Users\\thiba\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
   ],
   "logs": []
 }

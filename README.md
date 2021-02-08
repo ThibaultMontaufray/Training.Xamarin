@@ -2,6 +2,6 @@
 <ul>
   <li>splashscreen + icon</li>
   <li>first screen with buttons</li>
-  <li>counter</li>
+  <li>counter + navigation pages</li>
   <li>tab pages</li>
 </ul>

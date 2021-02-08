@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:resources="clr-namespace:XANTI.Resx"
+             mc:Ignorable="d"
+             Title="XANTI"
+             BackgroundColor="#E0CE9C"
+             x:Class="XANTI.MainPage">
+   
+    <StackLayout>
+        <Image Source="maze.png" VerticalOptions="Start" HeightRequest="200" Aspect="AspectFill" />
+
+        <Button
+            Margin="10"
+            Text="{x:Static resources:AppResources.RunAlert }"
+            FontSize="Large"
+            x:Name="alert"
+            Clicked="alert_Clicked"
+            Style="{StaticResource MenuStyle}" />
+
+        <Button
+            Margin="10"
+            Text="{x:Static resources:AppResources.Count }"
+            FontSize="Large"
+            x:Name="countpage"
+            Clicked="countpage_Clicked"
+            Style="{StaticResource MenuStyle}" />
+
+        <Button
+            Margin="10"
+            Text="{x:Static resources:AppResources.TabPage }"
+            FontSize="Large"
+            x:Name="tabpage"
+            Clicked="tabpage_Clicked"
+            Style="{StaticResource MenuStyle}" />
+    </StackLayout>
+
+</ContentPage>
