@@ -46,16 +46,16 @@
 /Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/bin/iPhoneSimulator/Debug/XANTI.pdb
 /Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
 /Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/bin/iPhoneSimulator/Debug/fr/XANTI.resources.dll
-/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.3/ibtool/_BundleResourceWithLogicalName.items
-/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.3/actool/_PartialAppManifest.items
-/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.3/actool/_BundleResourceWithLogicalName.items
-/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.3/coremlc/_PartialAppManifest.items
-/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.3/coremlc/_BundleResourceWithLogicalName.items
-/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.3/optimized/maze.png
-/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-14.3/optimized/
 /Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/XANTI.iOS.csprojAssemblyReference.cache
 /Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/XANTI.iOS.csproj.CoreCompileInputs.cache
 /Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/XANTI.iOS.csproj.CopyComplete
 /Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/XANTI.iOS.exe
 /Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/XANTI.iOS.pdb
+/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.3/actool/_PartialAppManifest.items
+/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.3/actool/_BundleResourceWithLogicalName.items
+/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.3/coremlc/_PartialAppManifest.items
+/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.3/optimized/maze.png
+/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/2-Xamarin.FirstPage/XANTI.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.3/optimized/

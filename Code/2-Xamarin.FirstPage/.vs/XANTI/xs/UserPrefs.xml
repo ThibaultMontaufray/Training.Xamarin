@@ -1,31 +1,17 @@
 ﻿<Properties HasIOSDesignerOverlayBeenDismissed="True" StartupConfiguration="{40D67121-8CA8-4599-A5BF-2AB3F7200B73}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="XANTI/MainPage.xaml">
-    <Files>
-      <File FileName="XANTI/MainPage.xaml" Line="19" Column="36" />
-      <File FileName="XANTI/App.xaml" Line="24" Column="15" />
-      <File FileName="XANTI.iOS/Info.plist" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="XANTI" expanded="True">
-            <Node name="XANTI" expanded="True">
-              <Node name="MainPage.xaml" expanded="True" selected="True" />
-            </Node>
-            <Node name="XANTI.Android" expanded="True">
-              <Node name="Assets" expanded="True" />
-            </Node>
-            <Node name="XANTI.iOS" expanded="True">
-              <Node name="Properties" expanded="True" />
-              <Node name="Resources" expanded="True" />
-            </Node>
+            <Node name="XANTI.iOS" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.XANTI.iOS automaticSigning="False" TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7870CA87-B30E-4EEB-9612-9FE58B54CEEB" />
+  <MonoDevelop.Ide.ItemProperties.XANTI.iOS automaticSigning="False" TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1CA2FECE-E238-4CA2-A59B-0EA7B4B10758" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
