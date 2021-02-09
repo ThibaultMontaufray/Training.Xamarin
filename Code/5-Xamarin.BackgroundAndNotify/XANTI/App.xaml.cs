@@ -1,14 +1,11 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using XANTI.Services;
 
 namespace XANTI
 {
     public partial class App : Application
     {
-        public static ICrossPlatform CrossPlatform;
-
         public App()
         {
             InitializeComponent();

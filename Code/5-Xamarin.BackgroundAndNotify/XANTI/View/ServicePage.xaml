@@ -8,15 +8,9 @@
     <ContentPage.Content>
         <StackLayout>
 
-            <StackLayout VerticalOptions="CenterAndExpand">
-                <Label x:Name="ServiceLabel" Text="Welcome to service process!"
-                    VerticalOptions="Start" 
+            <Label x:Name="ServiceLabel" Text="Welcome to service process!"
+                    VerticalOptions="CenterAndExpand" 
                     HorizontalOptions="CenterAndExpand" />
-
-                <Label x:Name="BackgroundLabel" Text="Welcome to background process!"
-                    VerticalOptions="Start" 
-                    HorizontalOptions="CenterAndExpand" />
-            </StackLayout>
             
             <Button Text="Start service" 
                 x:Name="btnServiceStart"

@@ -29,8 +29,6 @@ namespace XANTI.Droid
         {
             base.OnResume();
 
-            App.CrossPlatform = new CrossPlatform();
-
             StartActivity(new Intent(Application.Context, typeof(MainActivity)));
 
         }

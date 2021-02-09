@@ -18,7 +18,7 @@
             </Grid.ColumnDefinitions>
 
             <Image Grid.Row="0" x:Name="earthImg" Source="earth.png" HeightRequest="400" Aspect="AspectFit" HorizontalOptions="FillAndExpand" Margin="0, 0, 0, -210" />
-            <StackLayout Grid.Row="1" BackgroundColor="#002428" VerticalOptions="FillAndExpand" Margin="2" />
+            <StackLayout Grid.Row="1" BackgroundColor="#002428" VerticalOptions="FillAndExpand" />
         </Grid>
     </ContentPage.Content>
 </ContentPage>

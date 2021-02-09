@@ -34,7 +34,7 @@ namespace XANTI
         }
         private async void servicepage_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new ServicePage());
+            await Navigation.PushAsync(new ServicePage());
         }
     }
 }

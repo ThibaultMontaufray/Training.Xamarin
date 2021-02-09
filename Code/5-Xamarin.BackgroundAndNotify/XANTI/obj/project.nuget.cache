@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "2dIeCcCO0kT7vYMT/gjnNqMWc0kuvtRjR8pdAuB8764anKSZdceIWAycpERlE2n7+8P8be+EYdSKtOsb4Vugcg==",
+  "dgSpecHash": "36YwOUtK0ALlrjDe3qrglZX38pCm6NHyr/HsBgAwKyQJg9Uk3XbBZ4dD52WnusluF9a2ft7sNpsCaQjqGlSW+A==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Training.Xamarin\\Code\\5-Xamarin.BackgroundAndNotify\\XANTI\\XANTI.csproj",
+  "projectFilePath": "/Users/tmontaufray/Documents/git/training.xamarin/Training.Xamarin/Code/5-Xamarin.BackgroundAndNotify/XANTI/XANTI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\thiba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\thiba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\thiba\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+    "/Users/tmontaufray/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/tmontaufray/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/tmontaufray/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/tmontaufray/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/tmontaufray/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512"
   ],
   "logs": []
 }

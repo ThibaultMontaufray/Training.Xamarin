@@ -69,6 +69,7 @@
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\PeriodicService.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
@@ -258,14 +259,16 @@
     <Folder Include="Assets.xcassets\AppIcon.imageset\" />
     <Folder Include="Media.xcassets\maze.imageset\" />
     <Folder Include="Media.xcassets\splashscreen.imageset\" />
+    <Folder Include="Services\" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\maze.png" />
     <BundleResource Include="Resources\Minercraftory.ttf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </BundleResource>
-    <BundleResource Include="Resources\bodybot.png" />
-    <BundleResource Include="Resources\body.png" />
-    <BundleResource Include="Resources\personality.png" />
+    <BundleResource Include="Resources\earth.png" />
+    <BundleResource Include="Resources\forecast.png" />
+    <BundleResource Include="Resources\settings.png" />
+    <BundleResource Include="Resources\weather.png" />
   </ItemGroup>
 </Project>

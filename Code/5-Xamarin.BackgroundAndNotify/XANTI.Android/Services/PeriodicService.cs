@@ -62,4 +62,4 @@ namespace XANTI.Droid.Services
             if (_isRunning) { _timer.Start(); }
         }
     }
-}
+}           

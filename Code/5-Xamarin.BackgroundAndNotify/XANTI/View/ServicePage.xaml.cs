@@ -24,26 +24,20 @@ namespace XANTI.View
                 });
             });
 
-            MessagingCenter.Subscribe<object, string>(this, "UpdateLabelBackground", (s, e) =>
-            {
-                Device.BeginInvokeOnMainThread(() =>
-                {
-                    BackgroundLabel.Text = e;
-                });
-            });
-
             btnServiceStart.IsEnabled = true;
             btnServiceStop.IsEnabled = false;
         }
         private void btnServiceStart_Clicked(object sender, EventArgs e)
         {
-            App.CrossPlatform.StartTask(37);
+            MessagingCenter.Send<object, string>(this, "ServiceAction", "start");
+
             btnServiceStart.IsEnabled = false;
             btnServiceStop.IsEnabled = true;
         }
         private void btnServiceStop_Clicked(object sender, EventArgs e)
         {
-            App.CrossPlatform.StopTask();
+            MessagingCenter.Send<object, string>(this, "ServiceAction", "stop");
+
             btnServiceStart.IsEnabled = true;
             btnServiceStop.IsEnabled = false;
         }

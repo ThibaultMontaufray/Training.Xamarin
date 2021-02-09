@@ -1,21 +1,11 @@
 ﻿<Properties HasIOSDesignerOverlayBeenDismissed="True" StartupConfiguration="{40D67121-8CA8-4599-A5BF-2AB3F7200B73}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="XANTI.iOS/Main.cs">
-    <Files>
-      <File FileName="XANTI/View/CountPage.xaml" Line="11" Column="135" />
-      <File FileName="XANTI/View/TabPages/TabPage.xaml" Line="16" Column="45" />
-      <File FileName="XANTI.iOS/Main.cs" Line="21" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="XANTI" expanded="True">
-            <Node name="XANTI" expanded="True">
-              <Node name="View" expanded="True">
-                <Node name="TabPages" expanded="True" />
-              </Node>
-            </Node>
             <Node name="XANTI.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
+              <Node name="AppDelegate.cs" selected="True" />
             </Node>
           </Node>
         </State>
