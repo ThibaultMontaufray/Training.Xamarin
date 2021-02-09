@@ -6,7 +6,7 @@
              xmlns:resources="clr-namespace:XANTI.Resx"
              mc:Ignorable="d"
              Title="XANTI"
-             BackgroundColor="#E0CE9C"
+             BackgroundColor="#03231D"
              x:Class="XANTI.MainPage">
    
     <StackLayout>

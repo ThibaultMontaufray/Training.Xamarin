@@ -1936,6 +1936,7 @@ D:\Github\Training.Xamarin\Code\4-Xamarin.TabPages\XANTI.Android\obj\Debug\90\st
 D:\Github\Training.Xamarin\Code\4-Xamarin.TabPages\XANTI.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 D:\Github\Training.Xamarin\Code\4-Xamarin.TabPages\XANTI.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 D:\Github\Training.Xamarin\Code\4-Xamarin.TabPages\XANTI.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
-D:\Github\Training.Xamarin\Code\4-Xamarin.TabPages\XANTI.Android\obj\Debug\90\res\drawable\body.png
-D:\Github\Training.Xamarin\Code\4-Xamarin.TabPages\XANTI.Android\obj\Debug\90\res\drawable\bodybot.png
-D:\Github\Training.Xamarin\Code\4-Xamarin.TabPages\XANTI.Android\obj\Debug\90\res\drawable\personality.png
+D:\Github\Training.Xamarin\Code\4-Xamarin.TabPages\XANTI.Android\obj\Debug\90\res\drawable\forecast.png
+D:\Github\Training.Xamarin\Code\4-Xamarin.TabPages\XANTI.Android\obj\Debug\90\res\drawable\weather.png
+D:\Github\Training.Xamarin\Code\4-Xamarin.TabPages\XANTI.Android\obj\Debug\90\res\drawable\earth.png
+D:\Github\Training.Xamarin\Code\4-Xamarin.TabPages\XANTI.Android\obj\Debug\90\res\drawable\settings.png

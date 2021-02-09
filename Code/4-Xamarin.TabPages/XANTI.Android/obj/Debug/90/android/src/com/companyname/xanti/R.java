@@ -4549,14 +4549,14 @@ public final class R {
     public static final int abc_vector_test=0x7f070059;
     public static final int avd_hide_password=0x7f07005a;
     public static final int avd_show_password=0x7f07005b;
-    public static final int body=0x7f07005c;
-    public static final int bodybot=0x7f07005d;
-    public static final int design_bottom_navigation_item_background=0x7f07005e;
-    public static final int design_fab_background=0x7f07005f;
-    public static final int design_ic_visibility=0x7f070060;
-    public static final int design_ic_visibility_off=0x7f070061;
-    public static final int design_password_eye=0x7f070062;
-    public static final int design_snackbar_background=0x7f070063;
+    public static final int design_bottom_navigation_item_background=0x7f07005c;
+    public static final int design_fab_background=0x7f07005d;
+    public static final int design_ic_visibility=0x7f07005e;
+    public static final int design_ic_visibility_off=0x7f07005f;
+    public static final int design_password_eye=0x7f070060;
+    public static final int design_snackbar_background=0x7f070061;
+    public static final int earth=0x7f070062;
+    public static final int forecast=0x7f070063;
     public static final int ic_mtrl_chip_checked_black=0x7f070064;
     public static final int ic_mtrl_chip_checked_circle=0x7f070065;
     public static final int ic_mtrl_chip_close_circle=0x7f070066;
@@ -4576,9 +4576,10 @@ public final class R {
     public static final int notification_template_icon_low_bg=0x7f070074;
     public static final int notification_tile_bg=0x7f070075;
     public static final int notify_panel_notification_icon_bg=0x7f070076;
-    public static final int personality=0x7f070077;
+    public static final int settings=0x7f070077;
     public static final int tooltip_frame_dark=0x7f070078;
     public static final int tooltip_frame_light=0x7f070079;
+    public static final int weather=0x7f07007a;
   }
   public static final class id {
     public static final int ALT=0x7f080000;

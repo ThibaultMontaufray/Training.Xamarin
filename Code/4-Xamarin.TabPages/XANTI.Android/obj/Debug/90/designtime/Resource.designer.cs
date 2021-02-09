@@ -8279,28 +8279,28 @@ namespace XANTI.Droid
 			public const int avd_show_password = 2131165269;
 			
 			// aapt resource value: 0x7F070056
-			public const int body = 2131165270;
+			public const int design_bottom_navigation_item_background = 2131165270;
 			
 			// aapt resource value: 0x7F070057
-			public const int bodybot = 2131165271;
+			public const int design_fab_background = 2131165271;
 			
 			// aapt resource value: 0x7F070058
-			public const int design_bottom_navigation_item_background = 2131165272;
+			public const int design_ic_visibility = 2131165272;
 			
 			// aapt resource value: 0x7F070059
-			public const int design_fab_background = 2131165273;
+			public const int design_ic_visibility_off = 2131165273;
 			
 			// aapt resource value: 0x7F07005A
-			public const int design_ic_visibility = 2131165274;
+			public const int design_password_eye = 2131165274;
 			
 			// aapt resource value: 0x7F07005B
-			public const int design_ic_visibility_off = 2131165275;
+			public const int design_snackbar_background = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
-			public const int design_password_eye = 2131165276;
+			public const int earth = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
-			public const int design_snackbar_background = 2131165277;
+			public const int forecast = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
 			public const int ic_mtrl_chip_checked_black = 2131165278;
@@ -8360,13 +8360,16 @@ namespace XANTI.Droid
 			public const int notify_panel_notification_icon_bg = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int personality = 2131165297;
+			public const int settings = 2131165297;
 			
 			// aapt resource value: 0x7F070072
 			public const int tooltip_frame_dark = 2131165298;
 			
 			// aapt resource value: 0x7F070073
 			public const int tooltip_frame_light = 2131165299;
+			
+			// aapt resource value: 0x7F070074
+			public const int weather = 2131165300;
 			
 			static Drawable()
 			{

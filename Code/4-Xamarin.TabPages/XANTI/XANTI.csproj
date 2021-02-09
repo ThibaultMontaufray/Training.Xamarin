@@ -24,6 +24,15 @@
     <Compile Update="View\CountPage.xaml.cs">
       <DependentUpon>CountPage.xaml</DependentUpon>
     </Compile>
+    <Compile Update="View\TabPages\WeatherPage.xaml.cs">
+      <DependentUpon>WeatherPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="View\TabPages\Settings.xaml.cs">
+      <DependentUpon>Settings.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="View\TabPages\ForecastPage.xaml.cs">
+      <DependentUpon>ForecastPage.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
@@ -38,10 +47,10 @@
     <EmbeddedResource Update="View\CountPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="View\TabPages\BodyPage.xaml">
+    <EmbeddedResource Update="View\TabPages\WeatherPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="View\TabPages\PersonalityPage.xaml">
+    <EmbeddedResource Update="View\TabPages\ForecastPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="View\TabPages\TabPage.xaml">
