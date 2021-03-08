@@ -25,3 +25,9 @@ check kit android SDK tools :
   <li>API Weather : https://api.openweathermap.org/data/2.5/onecall?COORDINATES&APPID=TOKEN&units=metric</li>
   <li>API Covid : https://coronavirusapi-france.now.sh/AllLiveData</li>
 </ul>
+
+<center><h3>Usefull links</h3></center>
+
+<ul>
+  <li>C# to Json : https://json2csharp.com/</li>
+</ul>
