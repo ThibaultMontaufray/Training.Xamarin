@@ -4,4 +4,5 @@
   <li>first screen with buttons</li>
   <li>counter + navigation pages</li>
   <li>tab pages</li>
+  <li>services</li>
 </ul>
