@@ -23,4 +23,5 @@ check kit android SDK tools :
 <ul>
   <li>API Coordinates : https://api.opencagedata.com/geocode/v1/json?q=CITY&key=TOKEN</li>
   <li>API Weather : https://api.openweathermap.org/data/2.5/onecall?COORDINATES&APPID=TOKEN&units=metric</li>
+  <li>API Covid : https://coronavirusapi-france.now.sh/AllLiveData</li>
 </ul>
