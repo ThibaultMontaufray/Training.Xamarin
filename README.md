@@ -18,7 +18,8 @@ check kit android SDK tools :
   <li>Intel x86 Atom_64 System Image</li>
 </ul>
 
-Some API examples :
+<center><h3>Some API examples</h3></center>
+
 <ul>
   <li>API Coordinates : https://api.opencagedata.com/geocode/v1/json?q=CITY&key=TOKEN</li>
   <li>API Weather : https://api.openweathermap.org/data/2.5/onecall?COORDINATES&APPID=TOKEN&units=metric</li>
