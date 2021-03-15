@@ -66,7 +66,52 @@
 
 
 
+# ------------------------------------- controler db
 
+
+        static readonly Lazy<SQLiteAsyncConnection> lazyInitializer = new Lazy<SQLiteAsyncConnection>(() =>
+        {
+            return new SQLiteAsyncConnection(App.DatabasePath, App.Flags);
+        });
+
+        public static SQLiteAsyncConnection MyDatabase => lazyInitializer.Value;
+
+        static ControlerDB()
+        {
+            InitiateDatabase();
+        }
+
+        public static void AddData()
+        {
+            object obj = null;
+            MyDatabase.UpdateAsync(obj);
+        }
+
+        private static void InitiateDatabase()
+        {
+            var fileName = App.DatabasePath;
+            var assembly = Assembly.GetExecutingAssembly();
+            using (Stream stream = assembly.GetManifestResourceStream(fileName))
+            {
+                if (stream == null)
+                {
+                    throw new FileNotFoundException("Cannot find mappings file.", fileName);
+                }
+                else
+                {
+                    using (BinaryReader br = new BinaryReader(stream))
+                    using (BinaryWriter bw = new BinaryWriter(new FileStream(App.DatabasePath, FileMode.Create)))
+                    {
+                        byte[] buffer = new byte[2048];
+                        int len = 0;
+                        while ((len = br.Read(buffer, 0, buffer.Length)) > 0)
+                        {
+                            bw.Write(buffer, 0, len);
+                        }
+                    }
+                }
+            }
+        }
 
 
 
